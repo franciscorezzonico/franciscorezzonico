@@ -33,5 +33,3 @@ I build analytical projects that turn data into clear, actionable insights. My i
 - Portfolio: [franciscorezzonico.github.io](https://franciscorezzonico.github.io/)
 
 ---
-
-*I value clear analysis, thoughtful documentation, and projects that connect technical work to real business decisions.*
