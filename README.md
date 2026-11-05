@@ -26,7 +26,7 @@ I build analytical projects that turn data into clear, actionable insights. My i
 
 - Advanced machine-learning and forecasting projects
 - Data visualization and Tableau dashboards
-- Exploring applications of analytics and AI in healthcare, operations, and consumer markets
+- Exploring applications of analytics and AI in sport analytics
 - Expanding my portfolio of reproducible R, Python, and SQL analyses
 
 ## Connect with me
